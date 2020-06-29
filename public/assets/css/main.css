@@ -1,0 +1,47 @@
+.brand{
+    font-size: x-large;
+}
+.h4teams{
+    font-family: 'Courier New', Courier, monospace;
+}
+.h4home{
+    font-family: 'Courier New', Courier, monospace;
+}
+.h4fav{
+    font-family: 'Courier New', Courier, monospace;
+}
+.h6war{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    font-size: 14px;
+    letter-spacing: 2px;
+    line-height: 25px;
+}
+#body-content{
+    min-height: 85vh;
+}
+
+.information-team > span{
+    display: block;
+    margin-top: 10px;
+}
+
+.website-action{
+    color: #0d47a1 !important;
+    font-family: fantasy;
+}
+.btn{
+    font-family: fantasy;
+}
+
+.badge-blue{
+    background-color: orange;
+    color: #ffffff;
+    padding: 5px;
+}
+
+.page-footer{
+    padding: 15px !important;
+    font-family: fantasy;
+}

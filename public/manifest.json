@@ -1,0 +1,22 @@
+{
+    "name": "Seputar Football",
+    "short_name": "MiiPWA",
+    "description": "Seputar Football",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "orange",
+    "theme_color": "#0d47a1",
+    "icons": [
+        {
+            "src": "images/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "gcm_sender_id": "509105857486"
+}

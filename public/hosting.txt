@@ -1,0 +1,3 @@
+Firebase Hosting : https://footballpwa-6fc9f.firebaseapp.com
+Firebase Hosting : https://footballpwa-6fc9f.web.app
+Github Pages : https://github.com/fahmirinaldi/fahmirinaldi.github.io.git
